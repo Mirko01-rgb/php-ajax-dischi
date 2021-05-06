@@ -69,6 +69,7 @@
          <h1>{{item.title}}</h1>
          <img :src="item.poster" alt="">
          <p>{{item.author}}</p>
+         <p>{{item.genre}}</p>
          <p>{{item.year}}</p>
         </div>
       </div>
