@@ -20,45 +20,6 @@
     <script src="js/script.js" charset="utf-8"></script>
 
     <title>PHP</title>
-    <style media="screen">
-      body{
-        background-color: coral;
-      }
-
-      .container-card{
-        display: flex;
-        flex-wrap: wrap;
-        padding: 30px 0px;
-        justify-content: center;
-      }
-
-      .card{
-        min-height: 350px;
-        width: 250px;
-        margin: 15px;
-
-      }
-
-      h1{
-        text-align: center;
-        font-size: 25px;
-        padding: 20px 0px;
-      }
-
-      img{
-        width: 200px;
-        padding-bottom: 20px;
-        margin: 0 auto;
-      }
-
-      p{
-        font-size: 20px;
-        text-align: center;
-      }
-    </style>
-
-
-
   </head>
 
 
